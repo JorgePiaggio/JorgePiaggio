@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**JorgePiaggio/JorgePiaggio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://octodex.github.com/images/filmtocat.png" title="As you can see, I love cats" width="170">
+  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" title="I also love music" width="170">
+  <img src="https://octodex.github.com/images/Fintechtocat.png" title="And everyday my challenge is to code something new!" width="170">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+<p align="center">
+✨ I'm Jorge, I'm a developer from Argentina, about to finish my university studies at UTN. <br><br>
+🔭 I've worked with C, Java and PHP. At the time, I'm learning JavaScript.<br><br>
+👯 I'm looking to collaborate on open source projects, and willing to translate software and documentation from English to Spanish and vice versa.
+</p>
+
+
+
+
+<p align="center">
+
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
+
