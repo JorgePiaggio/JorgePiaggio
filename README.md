@@ -5,6 +5,7 @@
   <img src="https://octodex.github.com/images/filmtocat.png" title="As you can see, I love cats" width="170">
   <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" title="I also love music" width="170">
   <img src="https://octodex.github.com/images/Fintechtocat.png" title="And everyday my challenge is to code something new!" width="170">
+  <img src="https://octodex.github.com/images/hula_loop_octodex03.gif" title="I love contributing" width="170">
 </p><br><br>
 
 <p align="center">
