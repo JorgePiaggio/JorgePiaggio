@@ -14,10 +14,8 @@
 </p>
 
 
+📫 How to reach me:
+[LinkedIn](https://www.linkedin.com/in/jp-code)
 
 
-<p align="center">
-
-- 📫 How to reach me: ...
-</p>
 
