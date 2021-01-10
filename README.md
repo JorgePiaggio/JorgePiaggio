@@ -23,8 +23,7 @@
     <a href="#">
     <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=JorgePiaggio&repo=JorgePiaggio&countColorcountColor&countColor=%237B1E7A" />
    </a>
-</p><br>
-
+</p>
 
 <h4 align="center">How to reach me:question:</h4>
 <p align="center">
