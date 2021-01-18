@@ -29,5 +29,6 @@
 <h4 align="center">How to reach me:question:</h4>
 <p align="center">
   <a href="https://linkedin.com/in/jp-code" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="JP linkedin contact" height="30" width="40" /></a>
+  <a href = "https://jorgepiaggio.github.io/#contact" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/firefoxbrowser.svg" alt="JP mail contact" height="30" width="40" /></a>
   <a href = "mailto: proto2345@protonmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/protonmail.svg" alt="JP mail contact" height="30" width="40" /></a>
 </p><br><br>
