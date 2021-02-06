@@ -2,16 +2,13 @@
 <h3 align="center">✨ I'm a student developer from Argentina</h3>
 <br>
 <p align="center">
-  <img src="https://octodex.github.com/images/filmtocat.png" title="As you can see, I love cats" width="170">
-  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" title="I also love music" width="170">
-  <img src="https://octodex.github.com/images/Fintechtocat.png" title="And everyday my challenge is to code something new!" width="170">
-  <img src="https://octodex.github.com/images/hula_loop_octodex03.gif" title="I love contributing" width="170">
+  <img src="https://octodex.github.com/images/Fintechtocat.png" title="fintechtocat" width="170">
 </p><br><br>
 
 <p align="center">
-:school: I'm about to finish my university studies at <a href="http://mdp.utn.edu.ar/">UTN</a><br><br>
-🔭 I've worked with C, Java, MySQL and PHP. I've made a couple of games and web pages. <br>At the time, I'm learning JavaScript.<br><br>
-👯 I'm looking to collaborate on open source projects, and willing to translate software and documentation <br>from English to Spanish and vice versa.
+:school: I'm about to finish my university studies at <a href="http://mdp.utn.edu.ar/">UTN</a> Mar del Plata<br>I've worked with C, Java, PHP and MySQL<br><br>
+:computer: At the time, while looking for my first IT job, Im learning JavaScript and diving deeper into PHP.<br><br>
+:pushpin: I'm looking to collaborate on open source projects, and willing to translate software and documentation <br>from English to Spanish and vice versa.
 </p><br>
 
 <p align="center">
@@ -25,6 +22,10 @@
     <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=JorgePiaggio&repo=JorgePiaggio&countColorcountColor&countColor=%237B1E7A" />
    </a>
 </p>
+
+<p align="center">
+  <img src="https://octodex.github.com/images/filmtocat.png" title="filmtocat" width="170">
+</p><br>
 
 <h4 align="center">How to reach me:question:</h4>
 <p align="center">
