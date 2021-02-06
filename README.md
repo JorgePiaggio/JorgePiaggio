@@ -3,11 +3,11 @@
 <br>
 <p align="center">
   <img src="https://octodex.github.com/images/Fintechtocat.png" title="fintechtocat" width="170">
-</p><br><br>
+</p><br>
 
 <p align="center">
-:school: I'm about to finish my university studies at <a href="http://mdp.utn.edu.ar/">UTN</a> Mar del Plata<br>I've worked with C, Java, PHP and MySQL<br><br>
-:computer: At the time, while looking for my first IT job, Im learning JavaScript and diving deeper into PHP.<br><br>
+:school: I'm about to finish my university studies at <a href="http://mdp.utn.edu.ar/">UTN</a> Mar del Plata.<br>I've worked with C, Java, PHP and MySQL<br><br>
+:computer: At the time, while looking for my first IT job,<br> Im learning JavaScript and diving deeper into PHP.<br><br>
 :pushpin: I'm looking to collaborate on open source projects, and willing to translate software and documentation <br>from English to Spanish and vice versa.
 </p><br>
 
