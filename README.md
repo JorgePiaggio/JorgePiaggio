@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Jorge</h1>
 <h3 align="center">✨ I'm a student developer from Argentina</h3>
-<br>
+
 <p align="center">
   <img src="https://octodex.github.com/images/Fintechtocat.png" title="fintechtocat" width="170">
-</p><br>
+</p>
 
 <p align="center">
 I'm about to finish my university studies at <a href="http://mdp.utn.edu.ar/">UTN</a> Mar del Plata.<br>I've worked with C, Java, PHP and MySQL.<br><br><br>
 :computer: At the time, while looking for my first IT job,<br> Im learning JavaScript and diving deeper into PHP.<br><br><br>
-:pushpin: I'm looking to collaborate on open source projects, and willing to translate software and documentation <br>from English to Spanish and vice versa.
+:pushpin: I'm looking to collaborate on open source projects,<br>and willing to translate software and documentation <br>from English to Spanish and vice versa.
 </p><br>
 
 <p align="center">
@@ -25,7 +25,7 @@ I'm about to finish my university studies at <a href="http://mdp.utn.edu.ar/">UT
 
 <p align="center">
   <img src="https://octodex.github.com/images/filmtocat.png" title="filmtocat" width="170">
-</p><br>
+</p>
 
 <h4 align="center">How to reach me:question:</h4>
 <p align="center">
