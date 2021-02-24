@@ -17,10 +17,6 @@ I'm about to finish my university studies at <a href="http://mdp.utn.edu.ar/">UT
    </a><br><br>
      <a href="#">
     <img src="https://github-readme-stats.vercel.app/api?username=JorgePiaggio&show_icons=true&theme=tokyonight" />
-   </a><br><br>
-    <a href="#">
-    <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=JorgePiaggio&repo=JorgePiaggio&countColorcountColor&countColor=%237B1E7A" />
-   </a>
 </p>
 
 <p align="center">
