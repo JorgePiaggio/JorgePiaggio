@@ -26,17 +26,17 @@
     <br>:space_invader: :space_invader: <br>
     <br>:space_invader: <br><br>
     I'm in:exclamation:</h4>
-  </p><br><br>
-<p align="center">      
+  </p><br>
+<p align="center">   
   <a href="#">
     <img src="https://github-readme-stats.vercel.app/api?username=JorgePiaggio&show_icons=true&theme=tokyonight" alt="github activity"/>
-</p>
+</p><br>
 
 <p align="center">
   <img src="https://octodex.github.com/images/filmtocat.png" title="filmtocat" width="170" alt="film octocat">
 </p>
 
-<h4 align="center">How to reach me:question:</h4>
+<h4 align="center">How to reach me:question:</h4><br>
 <p align="center">
   <a href="https://linkedin.com/in/jp-code" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="JP linkedin contact" height="30" width="40" /></a>
   <a href = "https://jorgepiaggio.github.io" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/firefoxbrowser.svg" alt="JP portfolio" height="30" width="40" /></a>
