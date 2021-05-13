@@ -7,11 +7,9 @@
   <img src="https://octodex.github.com/images/Fintechtocat.png" title="fintechtocat" width="170" alt="fintech octocat">
 </p>
 
-
-<h3 align="center">About Me<h4>
 <p align="center">
   I'm a Programming Technician, recently graduated from <a href="http://mdp.utn.edu.ar/">UTN</a> Mar del Plata.<br>I've learnt C for a year and made two games with it, a cubic labyrinth and a pinball;<br> then OOP through Java & PHP.<br>Developed a PHP e-commerce website connected with two APIs, integrating MySQL, <br>CSS, JSON, and a bit of JavaScript into the project.<br><br><br>
-  :computer: At the time, while looking for my first IT job,<br> Im learning JavaScript and diving deeper into PHP, <br>exploring Symfony.<br><br><br>
+  :computer: At the time, Im learning JavaScript and working in .NET.<br>
   :pushpin: I'm looking to collaborate on open source projects,<br>and willing to translate software and documentation <br>from English to Spanish and vice versa.
   <br>I would like to spend more time doing <a href="https://soundcloud.com/user-856980075-832932942/sets/games">these</a>.
 </p><br>
@@ -20,12 +18,11 @@
 <p align="center">
   <a href="#">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgePiaggio&layout=compact" alt="most used languages"/>
-  </a><br><br>  
-  <h4 align="center"> Wanna make a game:question: 
-    <br><br>:space_invader: :space_invader: :space_invader: <br> 
-    <br>:space_invader: :space_invader: <br>
-    <br>:space_invader: <br><br>
-    I'm in:exclamation:</h4>
+  </a><br> 
+  <h4 align="center">
+    <br>:space_invader:  :space_invader:  :space_invader:  :space_invader:  :space_invader:  :space_invader:  :space_invader:  :space_invader:  :space_invader: <br> 
+    <br>:space_invader:  :space_invader:  :space_invader:  :space_invader:  :space_invader:  :space_invader:  :space_invader:  :space_invader:<br>
+    </h4>
   </p><br>
 <p align="center">   
   <a href="#">
